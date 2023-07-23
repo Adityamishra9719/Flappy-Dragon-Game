@@ -1,6 +1,7 @@
 # **Flappy Dragon**
 
 ### It is a Python game.
+Here there is a dragon whose control will be in your hand you just have to press space or up arrow key to start the game. use up or space to make dragon fly. 
 
 #### Used modules 
 
